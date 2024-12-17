@@ -3,12 +3,12 @@
 </h1>
 
 ### 📬 Find me at
-![Github Badge](https://img.shields.io/badge/-Github-%23181717?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fdidid08)
-![Medium Badge](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white&link=https%3A%2F%2Fmedium.com%2F%40didid.wizard)
-![LeetCode Badge](https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https%3A%2Fleetcode.com%2Fdidid08)
-![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Flinkedin.com%2Fin%2Fdiva-mujaddidi-08)
-![Instagram Badge](https://img.shields.io/badge/-Instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Fovercloak)
-![Proton Mail Badge](https://img.shields.io/badge/-Proton_Mail-%236D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto%3Adiva_mujaddidi%40proton.me)
+[![Github Badge](https://img.shields.io/badge/-Github-%23181717?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2Fdidid08)](https://github.com/didid08)
+[![Medium Badge](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white&link=https%3A%2F%2Fmedium.com%2F%40didid.wizard)](https://medium.com/@didid.wizard)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&link=https%3A%2Fleetcode.com%2Fdidid08)](https://leetcode.com/didid08)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Flinkedin.com%2Fin%2Fdiva-mujaddidi-08)](https://linkedin.com/in/diva-mujaddidi-08)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Finstagram.com%2Fovercloak)](https://instagram.com/overcloak)
+[![Proton Mail Badge](https://img.shields.io/badge/-Proton_Mail-%236D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto%3Adiva_mujaddidi%40proton.me)](mailto:diva_mujaddidi@proton.me)
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
