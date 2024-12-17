@@ -23,7 +23,7 @@ I'm a **Grad Student🎓 [@ Ar-Raniry State Islamic University ](https://ar-rani
 ![Static Badge](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=white)
 
 ### ⚙️ Some Tool and Tech I use
-![Laravel Badge](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat&logo=node.js&logoColor=white)
+![Laravel Badge](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/-NodeJS-%235FA04E?style=flat&logo=node.js&logoColor=white)
 ![React Badge](https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=white)
 ![Vue Badge](https://img.shields.io/badge/-Vue-%234FC08D?style=flat&logo=vue.js&logoColor=white)
